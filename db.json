@@ -1,0 +1,192 @@
+{ "cabs" : [
+    {
+      "id": 1,
+      "driver_name": "John Doe",
+      "car_model": "Toyota Prius",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "AB123CD",
+      "available": true,
+      "from": "City A",
+      "to": "City B"
+    },
+    {
+      "id": 2,
+      "driver_name": "Jane Smith",
+      "car_model": "Honda Accord",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "XY456ZW",
+      "available": true,
+      "from": "City C",
+      "to": "City D"
+    },
+    {
+      "id": 3,
+      "driver_name": "Michael Johnson",
+      "car_model": "Ford Escape",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "MN789OP",
+      "available": false,
+      "from": "City E",
+      "to": "City F"
+    },
+    {
+      "id": 4,
+      "driver_name": "Emily Brown",
+      "car_model": "Chevrolet Suburban",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "GH246IJ",
+      "available": true,
+      "from": "City G",
+      "to": "City H"
+    },
+    {
+      "id": 5,
+      "driver_name": "William Davis",
+      "car_model": "Tesla Model S",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "KL789MN",
+      "available": true,
+      "from": "City I",
+      "to": "City J"
+    },
+    {
+      "id": 6,
+      "driver_name": "Olivia Wilson",
+      "car_model": "Nissan Altima",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "OP101QR",
+      "available": true,
+      "from": "City K",
+      "to": "City L"
+    },
+    {
+      "id": 7,
+      "driver_name": "James Anderson",
+      "car_model": "Mazda CX-5",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "ST111UV",
+      "available": true,
+      "from": "City M",
+      "to": "City N"
+    },
+    {
+      "id": 8,
+      "driver_name": "Sophia Martinez",
+      "car_model": "Kia Forte",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "WX222YZ",
+      "available": false,
+      "from": "City O",
+      "to": "City P"
+    },
+    {
+      "id": 9,
+      "driver_name": "Alexander Lee",
+      "car_model": "Subaru Outback",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "AB333CD",
+      "available": true,
+      "from": "City Q",
+      "to": "City R"
+    },
+    {
+      "id": 10,
+      "driver_name": "Ava White",
+      "car_model": "Hyundai Sonata",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "DE444FG",
+      "available": false,
+      "from": "City S",
+      "to": "City T"
+    },
+    {
+      "id": 11,
+      "driver_name": "Robert Johnson",
+      "car_model": "Ford Fusion",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "UV456XY",
+      "available": true,
+      "from": "City A",
+      "to": "City B"
+    },
+    {
+      "id": 12,
+      "driver_name": "Emma Brown",
+      "car_model": "Honda Civic",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "IJ789GH",
+      "available": true,
+      "from": "City C",
+      "to": "City D"
+    },
+    {
+      "id": 13,
+      "driver_name": "James Davis",
+      "car_model": "Chevy Tahoe",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "QR101OP",
+      "available": false,
+      "from": "City E",
+      "to": "City F"
+    },
+    {
+      "id": 14,
+      "driver_name": "Sophia White",
+      "car_model": "Tesla Model 3",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "MN789KL",
+      "available": true,
+      "from": "City G",
+      "to": "City H"
+    },
+    {
+      "id": 15,
+      "driver_name": "Michael Wilson",
+      "car_model": "Nissan Rogue",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "CD246AB",
+      "available": true,
+      "from": "City I",
+      "to": "City J"
+    },
+    {
+      "id": 16,
+      "driver_name": "Ava Lee",
+      "car_model": "Mazda3",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "ST111WX",
+      "available": true,
+      "from": "City K",
+      "to": "City L"
+    },
+    {
+      "id": 17,
+      "driver_name": "John Martinez",
+      "car_model": "Kia Soul",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "YZ222UV",
+      "available": false,
+      "from": "City M",
+      "to": "City N"
+    },
+    {
+      "id": 18,
+      "driver_name": "Jane Johnson",
+      "car_model": "Subaru Crosstrek",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "CD333AB",
+      "available": true,
+      "from": "City O",
+      "to": "City P"
+    },
+    {
+      "id": 19,
+      "driver_name": "Michael Brown",
+      "car_model": "Hyundai Elantra",
+      "car_image_url": "https://th.bing.com/th/id/OIP.cM8hngs-PgNnHZdq3cL_pQHaFA?pid=ImgDet&rs=1",
+      "license_plate": "FG444DE",
+      "available": true,
+      "from": "City G",
+      "to": "City A"
+    },
+]}
