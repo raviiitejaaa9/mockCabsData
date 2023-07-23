@@ -1,4 +1,4 @@
-[
+{ "cabs" : [
     {
       "id": 1,
       "driver_name": "John Doe",
@@ -189,4 +189,4 @@
       "from": "City G",
       "to": "City A"
     }
-]
+]}
